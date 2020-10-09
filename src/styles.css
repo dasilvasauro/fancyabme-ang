@@ -1,1 +1,21 @@
 /* You can add global styles to this file, and also import other style files */
+html, body{
+    margin: 0%;
+    height: 100%;
+    font-family: 'Anton';
+}
+
+.principal{
+    color: white;
+    text-decoration: violet;
+    font-size: 53px;
+    display: flex;
+    padding-left: 40px;
+    padding-top: 75px;
+}
+
+.textos{
+    color: seashell;
+    padding-left: 40px;
+    font-size: 18px;
+}

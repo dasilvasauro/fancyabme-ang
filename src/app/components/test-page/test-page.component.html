@@ -1,0 +1,28 @@
+<div class="page-container">
+    <div class="sidebar">
+
+
+        <div class="list-items">
+            <div class="linear-wipe">WELCOME</div>
+            <a routerLink="/know" class="list-item">
+                <i class="material-icons">stop</i>
+                know me
+            </a>
+            <a routerLink="chara" class="list-item">
+                <i class="material-icons">stop</i>
+                character references
+            </a>
+            <a routerLink="/reachme" class="list-item">
+                <i class="material-icons">stop</i>
+                reach me
+            </a>
+        </div>
+
+    </div>
+
+    
+        <div class="page-content-control">
+            <router-outlet #outlet="outlet"></router-outlet>
+        </div>
+    
+</div>
