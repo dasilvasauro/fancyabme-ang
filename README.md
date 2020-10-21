@@ -9,7 +9,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 ![Character Refererences](/src/chararef.png)
 #Second Route
 
-![Reach Me](/src/reachme.png)
+![Reach Me](/src/reach.png)
 #Third Route
 
 ## Development server
