@@ -1,6 +1,7 @@
 # FancyabmeAng
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.1.1.
+Para fins de estudo. Primeira SPA que produzi no angular.
 
 
 ![Know Me](/src/knowme.png)
